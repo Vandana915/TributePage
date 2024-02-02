@@ -5,6 +5,9 @@ A A.P.J. Abdul Kalam tribute page a front-end project where I show some informat
 ## Screenshot
 ![tributepage](https://github.com/Vandana915/TributePage/assets/124566666/d6b813ae-ff1e-4c39-99c4-acf510576b05)
 
+## Demo
+You can explore the live demo of the parallax website [Here](http://127.0.0.1:5500/index.html).
+
 
 ##  Built with
 * HTML
