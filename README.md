@@ -3,7 +3,8 @@
 A A.P.J. Abdul Kalam tribute page a front-end project where I show some information about the A.P.J.Abdul Kalam life.This is a single page Tribute Page build by using HTML and CSS.
 
 ## Screenshot
-![tributepage](https://github.com/Vandana915/TributePage/assets/124566666/d6b813ae-ff1e-4c39-99c4-acf510576b0)
+![tributepage](![Screenshot 2023-11-10 112726](https://github.com/Vandana915/TributePage/assets/124566666/891d154a-81db-4e34-9b86-9f4c8df348ae)
+)
 
 ## Demo
 You can explore the live demo of the Tribute Page [Here]( https://vandana915.github.io/TributePage/).
